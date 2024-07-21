@@ -17,6 +17,13 @@ return {
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.ansible" },
   { import = "astrocommunity.pack.terraform" },
+  { import = "astrocommunity.pack.kotlin" },
+  { import = "astrocommunity.pack.markdown" },
+  { import = "astrocommunity.pack.tailwindcss" },
+  { import = "astrocommunity.pack.sql" },
+  { import = "astrocommunity.pack.proto" },
   { import = "astrocommunity.pack.json" },
+  { import = "astrocommunity.pack.xml" },
+  { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.yaml" }, -- import/override with your plugins folder
 }
