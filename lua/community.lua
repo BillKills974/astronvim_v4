@@ -25,5 +25,8 @@ return {
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.xml" },
   { import = "astrocommunity.pack.toml" },
-  { import = "astrocommunity.pack.yaml" }, -- import/override with your plugins folder
+  { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.media.cord-nvim" },
+  { import = "astrocommunity.workflow.hardtime-nvim" },
+  { import = "astrocommunity.workflow.precognition-nvim" },
 }
